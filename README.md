@@ -11,3 +11,7 @@ In 2021, Amazon Logistics delivered approximately 4.75 billion packages in the U
 ## Link to code: 
 
 https://colab.research.google.com/drive/1OmlkrTJqCtPzn_kWuDDTLMlsblRWHqrl#scrollTo=LQUrpWaxHr_c
+
+## Link to video:
+
+https://drive.google.com/file/d/1RZYdCdkQt6HZFkWFjAMpSTzXyWFlJ2kl/view?usp=drive_link
